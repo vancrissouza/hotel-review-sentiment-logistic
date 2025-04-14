@@ -77,7 +77,8 @@ To use the app, simply enter or paste a review in the input field, and the model
 
 ## Repository Structure
 
-hotel-review-sentiment-logistic/
+hotel-review-sentiment-logistic
+
 ├── app.py                      # Main Streamlit app code
 ├── model.pkl                   # Saved Logistic Regression model
 ├── vectorizer.pkl              # Saved TF-IDF vectorizer
