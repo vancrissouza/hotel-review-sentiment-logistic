@@ -2,6 +2,8 @@
 
 This project is a sentiment analysis tool designed to classify hotel reviews as either **positive** or **negative**. It uses a Logistic Regression model trained with TF-IDF (1–3 grams) and class balancing with SMOTE. The app is deployed using **Streamlit**.
 
+👉 **[Try the live app here](https://hotel-review-sentiment-logistic-kn6qfreevjlhtuchezppzd.streamlit.app/)**
+
 ---
 
 ##  Overview
