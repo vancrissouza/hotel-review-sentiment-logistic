@@ -31,8 +31,8 @@ This classifier helps analyse customer feedback by instantly predicting the sent
 2. Set up a virtual environment (optional, but recommended):
    ```bash
    python -m venv venv
-source venv/bin/activate  # On Linux/Mac
-.\venv\Scripts\activate  # On Windows
+   source venv/bin/activate  # On Linux/Mac
+   .\venv\Scripts\activate  # On Windows
 
 
 3. Install the dependencies:
