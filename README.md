@@ -69,7 +69,7 @@ Input:
 
 Prediction:
 - Sentiment: Negative
-- Confidence: 95%
+- Confidence: 92%
 
 To use the app, simply enter or paste a review in the input field, and the model will return the predicted sentiment along with the associated confidence score.
 
