@@ -12,6 +12,13 @@ This classifier helps analyse customer feedback by instantly predicting the sent
 
 ---
 
+## Dataset
+
+
+**[Trip Advisor Hotel Reviews](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews/data)**
+
+---
+
 ##  Features
 
 - Text pre-processing with negation handling (`not recommend`)
